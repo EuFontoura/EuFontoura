@@ -14,7 +14,7 @@ I am <strong>completely</strong> passionate about <strong>technology and its inn
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuFontoura&layout=compact&hide_border=true&title_color=1975b5&text_color=c9d1d9&bg_color=0d1117" /> <br>
 </div>
 
-![Snake animation](https://github.com/eufontoura/eufontoura/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EuFontoura/EuFontoura/blob/output/github-contribution-grid-snake.svg)
 
 ## 💻 Tools and Technologies
 
