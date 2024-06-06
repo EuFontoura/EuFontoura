@@ -10,7 +10,7 @@ I am <strong>completely</strong> passionate about <strong>technology and its inn
 
 ## ⭐ GitHub Stats
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuFontoura&show_icons=true&count_private=true&hide_border=true&title_color=1975b5&icon_color=1975b5&text_color=c9d1d9&bg_color=0d1117" alt="Anna Julia Lucas github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuFontoura&show_icons=true&count_private=true&hide_border=true&title_color=1975b5&icon_color=1975b5&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Fontoura github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuFontoura&layout=compact&hide_border=true&title_color=1975b5&text_color=c9d1d9&bg_color=0d1117" /> <br>
 </div>
 
