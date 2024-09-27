@@ -6,7 +6,7 @@
 I'm Gabriel Fontoura, a <strong>junior developer</strong> in training<br>
 I am <strong>completely</strong> passionate about <strong>technology and its innovations.</strong><br>
 <br>
-    🚀Currently learning <strong>Python</strong> and <strong>C#.</strong><br>
+    🚀Currently learning <strong>Python</strong> and <strong>IA.</strong><br>
 
 ## ⭐ GitHub Stats
  <div align="center">  
