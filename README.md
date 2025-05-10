@@ -43,7 +43,7 @@
 
 <!--GIF-->
 <div align= "center">
-  <img width=50% src= "https://github.com/user-attachments/assets/3ae48a00-9aef-49ab-962d-3dddcebf9112"/>
+  <img width=50% src= "/raining.gif"/>
 </div>
 
 <!--linha-->
