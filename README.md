@@ -8,13 +8,11 @@
 
 <!--descrição-->
 <div align= "center">
-   <p><i>🇧🇷 Português</i></p>
-<p>Desenvolvedor apaixonado por resolver problemas com código. Sempre aprendendo, testando ideias malucas e buscando escrever software limpo, funcional e com propósito. Curioso por natureza, explorando de tudo um pouco — de frontend ao backend. Se tiver um café por perto, o código flui ainda melhor. ☕🚀</p>
-
-<p><i>🇺🇸 English</i></p>
-<p>Developer passionate about solving problems through code. Always learning, experimenting with crazy ideas, and aiming to write clean, functional, and meaningful software. Naturally curious, exploring a bit of everything — from frontend to backend. If there's coffee around, the code flows even better. ☕🚀</p>
-</div>
-
+<p>
+🎯 Tô sempre caçando algo novo pra criar.<br>
+💻 Faço de tudo um pouco: frontend, backend, automação, gambiarra que vira feature.<br>
+🌉 Acredito que programar é ser ponte — entre a necessidade de quem usa e o que a tecnologia pode oferecer.<br>
+</p>
 
 <!--linha-->
 <div align= "center">
