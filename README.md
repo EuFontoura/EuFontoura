@@ -27,11 +27,14 @@
 </div>
 
 <!--github stats-->
-<div align ="center">
+![Status](./profile-3d-contrib/profile-night-view.svg)
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EuFontoura&theme=city_lights&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EuFontoura&theme=city_lights)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+<!--<div align ="center">
   <a href="https://github.com/EuFontoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EuFontoura&show_icons=true&theme=gotham&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuFontoura&exclude_repo=EDAestudos,exame_diabetes,testesComPandas,EstatisticaDevs-Desafio01&layout=compact&langs_count=7&theme=gotham&hide=ShaderLab"/>
-</div>
+</div>-->
 
 <!--linha-->
 <div align= "center">
@@ -42,9 +45,6 @@
 <div align= "center">
   <img width=50% src= "https://github.com/user-attachments/assets/3ae48a00-9aef-49ab-962d-3dddcebf9112"/>
 </div>
-
-
-
 
 <!--linha-->
 <div align= "center">
